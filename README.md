@@ -143,7 +143,9 @@ spotify-data-analysis/
 |   |__ spotify.csv
 |   |__ spotify_cleaned.csv  
 ├── notebooks/
+|   |__spotify_data_cleaning_and_eda.ipynb
 ├── sql/
+|   |__spotify_bigquery_analysis.sql
 └── README.md
 
 ```
